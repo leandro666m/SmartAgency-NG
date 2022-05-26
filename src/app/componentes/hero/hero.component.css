@@ -1,0 +1,17 @@
+/*  HERO  */ 
+#hero .container{
+    max-width: 100%;
+    padding: 0px 0 50px 0;
+    position: relative;
+
+    max-height: 720px; /*520 por el alto de la 1er imagen*/
+overflow: hidden;  }
+#hero .texto {
+        color: var(--white-color); 
+        position: absolute;
+    z-index: 1;
+    top: 30%;  /*arreglar en los media queries*/
+    left: 50%;
+     transform: translate(-50%, -50%); }
+#hero p{  
+    color: var(--white-color);  }

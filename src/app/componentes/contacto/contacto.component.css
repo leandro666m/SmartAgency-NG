@@ -1,0 +1,14 @@
+  /*  CONTACTO  */  
+  #contacto{ padding-top: 250px; }
+    .form-control {
+        font-size: 14px;
+        border: 1px solid #cacaca;
+        padding: 15px;
+        border-radius: 20px;
+        margin: 5px;     }
+    .form-control:focus {
+        border: 1px solid var(--dark-color);
+        outline: none;
+        box-shadow: none;     }
+        .full-width {
+            width: 100%;         }   

@@ -1,0 +1,20 @@
+/*  PRECIOS  */ 
+#pricing{ padding-top: 250px; }
+.plans {
+    padding: 50px 70px;
+    min-width: 450px;  }
+    .plans h2 {
+        font-size: 50px;
+        font-weight: 600;     }
+        .plans h2 span {
+            font-size: 20px;         }
+        .plans ul {
+            list-style-type: disc; }
+.plan-light {
+    background-color: var(--white-color);
+    border: 2px solid var(--dark-color);  }
+.plan-dark {
+    background-color: var(--dark-color);
+    border: 2px solid var(--dark-color);
+    color: var(--white-color);  }
+   

@@ -1,0 +1,14 @@
+ /*  NOSOTROS  */  
+ #nosotros{ padding-top: 250px; }
+ .member-container {
+   position: relative;
+   margin: 10px 0; }
+.member-details {
+   position: absolute;
+   color: var(--white-color);
+   bottom: 0;
+   left: 20px; }
+.member-details span {
+   font-size: 14px; }
+.member-details i {
+   padding: 0 5px; }
